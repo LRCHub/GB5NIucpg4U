@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "またね",
+  "base_artist": "saya",
+  "createdAt": "2026-02-20T05:44:59.486229Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "またね",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/01_またね_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "またね",
+      "artist": "ryo feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_またね_ryo_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "またね",
+      "artist": "ryo",
+      "has_synced": true,
+      "path": "select/03_またね_ryo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "またね。",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/04_またね。_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "じゃあね、またね。",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/05_じゃあね、またね。_りりあ。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "See You - またね",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/06_See_You_-_またね_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "じゃあね、またね。",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/07_じゃあね、またね。_りりあ。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "またね",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/08_またね_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sayonara またね",
+      "artist": "ミカヅキBIGWAVE",
+      "has_synced": true,
+      "path": "select/09_Sayonara_またね_ミカヅキBIGWAVE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "またね",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/10_またね_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "またね",
+      "artist": "saya",
+      "has_synced": true,
+      "path": "select/11_またね_saya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "またね、",
+      "artist": "TrySail",
+      "has_synced": false,
+      "path": "select/12_またね、_TrySail.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "またね -ALBUM VERSION-",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/13_またね_-ALBUM_VERSION-_DREAMS_COME_TRUE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "またね - See you",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/14_またね_-_See_you_HoneyComeBear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "またね",
+      "artist": "saya",
+      "has_synced": false,
+      "path": "select/pl_01_またね_saya.txt"
+    }
+  ]
+}
